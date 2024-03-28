@@ -14,6 +14,7 @@ class About extends React.Component{
     }
 
     render() {
+        
         //console.log("Parent Render")
         return (
             <div>
