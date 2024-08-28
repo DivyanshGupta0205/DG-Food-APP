@@ -27,16 +27,4 @@ class About extends React.Component{
     }
 }
 
-// const About = () => {
-//     return (
-//         <div>
-//             <h1>About</h1>
-//             <h2>This is Namaste React Web Series</h2>
-//             {/* <User name={"Akshay Saini (function)"}/> */}
-
-//             <UserClass name = {"Akshay Saini (class)"} location={"Dehradun Class"}/>
-//         </div>
-//     )
-// }
-
 export default About;
